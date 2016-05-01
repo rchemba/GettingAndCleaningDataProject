@@ -64,7 +64,7 @@ The script transforms the raw data into tidy data by doing the following steps
 
     * Read the result into a tidyData set using
     
-      tidyData <- read.csv("result/TidyData.txt", sep = "\\t")
+      tidyData <- read.csv("result/TidyData.txt", sep = "\t")
     
     * str(tidyData) - Gives an overview/ summary of the tidy data set
     
