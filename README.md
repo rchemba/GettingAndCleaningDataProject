@@ -2,6 +2,8 @@
 ---
 title: "README"
 author: "Chemba Ranganathan"
+date: "April 30, 2016"
+output: html_document
 ---
 
 ### Project Description
