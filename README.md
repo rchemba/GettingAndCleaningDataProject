@@ -3,7 +3,6 @@
 title: "README"
 author: "Chemba Ranganathan"
 date: "May 1, 2016"
-output: html_document
 ---
 
 ### Project Description
