@@ -1,9 +1,4 @@
 
----
-title: "README"
-author: "Chemba Ranganathan"
-date: "May 1, 2016"
----
 
 ### Project Description
 The purpose of this project is to demonstrate one's ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. The project does the following
